@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  text-align: center;
+  background: linear-gradient(to left, #fff, #696969);
+}
+
+.box {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.slick-area{
+  margin: 100px auto;
+  width: 80%;
+
+}
+.slick-area img{
+  height: auto;
+  width: 100%;
+  cursor: pointer;
+}
+
+.slick-prev:before, .slick-next:before {
+  color: #000;
+}
